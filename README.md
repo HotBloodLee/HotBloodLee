@@ -5,20 +5,27 @@ ___
 # 欢迎 WELCOME
 
 ___
-## our current works
+## 你好 Hello
+
+这是卢，这也是吸啰
+
+This is LU
+
+苦命开发，喜欢水群
+
+Struggling coder who loves hanging out in chat groups
+
+正在学习 Studying：
+- LLM Agent
+- 移动开发 APP
+
 ___
-### 1、GNNQU
-code is coming soon!
-### 2、Heterogeneous Sources for Multi-docs
-link: [Heterogeneous-Sources-for-Multi-Docs](https://github.com/HotBloodLee/Heterogeneous-Sources-for-Multi-Docs)
+### MLab
 
-以CLOCQ为原型，搭建一个可以用于检索多文档证据的异构知识库，用于下游任务。
+正在尝试的玩具
 
-初期以医学领域展开
-### 3、Multi Docs with LM
-link: [Multi-Docs-with-LM](https://github.com/HotBloodLee/Multi-Docs-with-LM)
+link: [m-lab](https://hotbloodlee.github.io/homepage/)
 
-搭建适应多文档的LM，基于微调、prompt等方式
 ___
 <div style="text-align: center;">
 <img src="imgs/LOGO3.webp" style="zoom: 13%;" />
