@@ -1,10 +1,8 @@
-<div style="text-align: center;">
-<img src="imgs/LOGO3.webp" style="zoom: 13%;" />
-</div>
+
 
 ___
 
-# M-Lab
+# 欢迎 WELCOME
 
 ___
 ## our current works
@@ -22,5 +20,6 @@ link: [Multi-Docs-with-LM](https://github.com/HotBloodLee/Multi-Docs-with-LM)
 
 搭建适应多文档的LM，基于微调、prompt等方式
 ___
-## Contact us
-___
+<div style="text-align: center;">
+<img src="imgs/LOGO3.webp" style="zoom: 13%;" />
+</div>
