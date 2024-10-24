@@ -1,4 +1,6 @@
-<img src="imgs/LOGO3.webp" style="zoom: 33%;" />
+<div style="text-align: center;">
+<img src="imgs/LOGO3.webp" style="zoom: 13%;" />
+</div>
 
 ___
 
