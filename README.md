@@ -13,7 +13,7 @@ This is LU
 
 苦命开发，喜欢水群
 
-Struggling coder who loves hanging out in chat groups
+Struggling coder ,love water
 
 正在学习 Studying：
 - LLM Agent
